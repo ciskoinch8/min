@@ -264,7 +264,7 @@
     "passwordManagerSetupDragBox": "Déposer l'outil ici",
     "passwordManagerSetupInstalling": "En cours d'installation...",
     "passwordManagerBitwardenSignIn": null, //missing translation
-    "passwordManagerSetupSignIn": "Connectez-vous à votre gestionnaire de mots de pass pour commencer à utiliser le remplissage automatique. Vos informations de connexion ne seront jamais stockées par Min.",
+    "passwordManagerSetupSignIn": "Connectez-vous à votre gestionnaire de mots de passe pour commencer à utiliser le remplissage automatique. Vos informations de connexion ne seront jamais stockées par Min.",
     "disableAutofill": "Désactiver le remplissage automatique",
     "passwordManagerSetupUnlockError": "Échec d'ouverture de la bibliothèque de mots passe : ",
     "passwordManagerSetupRetry": "Assurez-vous d'utiliser le bon fichier et d'entrer le bon mot de passe. Vous pouvez réessayer en déposant à nouveau l'outil ici.",
@@ -288,7 +288,7 @@
     "password": "Mot de passe",
     "secretKey": "Clé privée",
     "openExternalApp": null, //missing translation
-    "clickToCopy": null, //missing translation
-    "copied": null //missing translation
+    "clickToCopy": "cliquez pour copier", 
+    "copied": "copié"
   }
 }
